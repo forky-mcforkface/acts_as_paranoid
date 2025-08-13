@@ -1,10 +1,10 @@
 source "http://rubygems.org"
 
-gem "activerecord", "~>3.2"
+gem "activerecord", "~>8.0"
 
 # Development dependencies
 gem "rake"
-gem "activesupport", "~>3.2"
+gem "activesupport", "~>8.0"
 
 platforms :ruby do
   gem "sqlite3"
